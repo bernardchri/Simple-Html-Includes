@@ -1,5 +1,6 @@
-## Simple newsletter constructor
+## Simple Html with includes
 
+Ici utilité pour construire facilement des Newsletters / 
 Avec Parcel.js & posthtml. 
 
 ## objectif
