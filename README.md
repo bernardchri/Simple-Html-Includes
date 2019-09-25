@@ -9,8 +9,11 @@ Divisier le projet en plusieurs sous parties lisibles
 ## Lancement du projet
 
 	npm i
-	npm start
+	npm run start
 
+pour une version build
+
+	npm run build
 
 ## Comment s'en servir 
 
