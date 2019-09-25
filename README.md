@@ -1,11 +1,18 @@
 ## Simple newsletter constructor
 
-with Parcel.js & posthtml bundler
+Avec Parcel.js & posthtml. 
 
+## objectif
+
+Divisier le projet en plusieurs sous parties lisibles
+
+## Lancement du projet
 
 	npm i
 	npm start
 
+
+## Comment s'en servir 
 
 Travaillez dans le dossier /src sur le fichier index.html et retrouvez l'export dans ./dist. Faire des includes grâche à 
 	
