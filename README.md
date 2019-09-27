@@ -9,7 +9,7 @@ Divisier le projet en plusieurs sous parties lisibles
 
 ## Lancement du projet
 
-	git clone https://github.com/bernardchri/Simple-Html-Includes.git
+	git clone https://github.com/bernardchri/Simple-Html-Includes.git Simple-Html-Includes
 	rm -rf .git
 	npm install
 	npm run start
