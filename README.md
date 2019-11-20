@@ -1,5 +1,6 @@
-## Simple newsletter constructor
+## Simple Html with includes
 
+Ici utilité pour construire facilement des Newsletters / 
 Avec Parcel.js & posthtml. 
 
 ## objectif
@@ -8,7 +9,10 @@ Divisier le projet en plusieurs sous parties lisibles
 
 ## Lancement du projet
 
-	npm i
+	git clone https://github.com/bernardchri/Simple-Html-Includes.git Simple-Html-Includes
+	cd Simple-Html-Includes
+	rm -rf .git
+	npm install
 	npm run start
 
 pour une version build
