@@ -1,7 +1,7 @@
 ## Simple Html with includes
 
 Ici utilité pour construire facilement des Newsletters / 
-Avec Parcel.js & posthtml. 
+Avec Parcel.js & [posthtml](https://github.com/posthtml/posthtml-include). 
 
 ## objectif
 
