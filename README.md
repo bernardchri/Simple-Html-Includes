@@ -23,6 +23,9 @@ pour une version build
 
 Travaillez dans le dossier /src sur le fichier index.html et retrouvez l'export dans ./dist. Faire des includes grâche à 
 	
-	<module href="./src/header.html"></module>
+	<include src="./src/header.html"></include>
 	
-**Attention** l'export se fait à partir de la racine, d'où le "./src"
+**Attention** 
+	- l'export se fait à partir de la racine, d'où le "./src"
+	- les includes ne peuvent se faire que pour des balises qui se ferment. postHml va automatiquemnet fermer les balises !! 
+
