@@ -13,7 +13,7 @@ Divisier le projet en plusieurs sous parties lisibles
 	cd Simple-Html-Includes
 	rm -rf .git
 	npm install
-	npm run start
+	npm run dev
 
 pour une version build
 
